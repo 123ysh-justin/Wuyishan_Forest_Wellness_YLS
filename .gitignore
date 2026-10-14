@@ -1,0 +1,22 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
+.workbuddy
+.playwright-cli/
+_publish/
+snap.yaml
+home_snap.yaml
+
+# 验证截图 / 发布缓存 / 测试残留
+*.png
+_publish/
+.playwright-cli/
+snap.yaml
+home_snap.yaml

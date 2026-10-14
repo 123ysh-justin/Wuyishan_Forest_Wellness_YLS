@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "黄岗山 2160.8m", "kind": "peak" }, "geometry": { "type": "Point", "coordinates": [117.75, 27.84] } },
+    { "type": "Feature", "properties": { "name": "大王峰", "kind": "peak" }, "geometry": { "type": "Point", "coordinates": [117.972, 27.655] } },
+    { "type": "Feature", "properties": { "name": "玉女峰", "kind": "peak" }, "geometry": { "type": "Point", "coordinates": [117.988, 27.645] } },
+    { "type": "Feature", "properties": { "name": "天游峰", "kind": "peak" }, "geometry": { "type": "Point", "coordinates": [117.955, 27.638] } },
+    { "type": "Feature", "properties": { "name": "九曲溪", "kind": "river" }, "geometry": { "type": "Point", "coordinates": [117.945, 27.665] } },
+    { "type": "Feature", "properties": { "name": "崇阳溪", "kind": "river" }, "geometry": { "type": "Point", "coordinates": [118.02, 27.80] } },
+    { "type": "Feature", "properties": { "name": "武夷山国家公园", "kind": "park" }, "geometry": { "type": "Point", "coordinates": [117.70, 27.76] } },
+    { "type": "Feature", "properties": { "name": "武夷山风景名胜区", "kind": "scenic" }, "geometry": { "type": "Point", "coordinates": [118.005, 27.675] } },
+    { "type": "Feature", "properties": { "name": "武夷街道", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [118.035, 27.755] } },
+    { "type": "Feature", "properties": { "name": "星村镇", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [117.895, 27.665] } },
+    { "type": "Feature", "properties": { "name": "五夫镇", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [118.025, 27.605] } },
+    { "type": "Feature", "properties": { "name": "兴田镇", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [118.02, 27.68] } },
+    { "type": "Feature", "properties": { "name": "上梅乡", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [118.13, 27.72] } },
+    { "type": "Feature", "properties": { "name": "岚谷乡", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [118.05, 27.99] } },
+    { "type": "Feature", "properties": { "name": "洋庄乡", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [117.82, 27.83] } },
+    { "type": "Feature", "properties": { "name": "吴屯乡", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [118.08, 27.90] } },
+    { "type": "Feature", "properties": { "name": "三姑度假区", "kind": "town" }, "geometry": { "type": "Point", "coordinates": [118.005, 27.70] } }
+  ]
+}

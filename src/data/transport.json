@@ -1,0 +1,14 @@
+{
+  "note": "交通枢纽坐标用于公共交通路线示意（近似坐标，非精密测绘）。距离按经纬度直线估算，仅供便捷性演示。",
+  "hubs": [
+    { "id": "wus-airport", "name": "武夷山机场", "type": "airport", "coord": [118.0036, 27.7008] },
+    { "id": "wys-bei", "name": "武夷山北站", "type": "rail", "coord": [117.925, 27.789] },
+    { "id": "nanping-st", "name": "南平市站（武夷山东站）", "type": "rail", "coord": [118.052, 27.738] },
+    { "id": "jianyang-st", "name": "建阳站", "type": "rail", "coord": [118.110, 27.336] },
+    { "id": "shaowu-st", "name": "邵武站", "type": "rail", "coord": [117.489, 27.341] },
+    { "id": "san-gu-bus", "name": "三姑度假区公交枢纽", "type": "bus", "coord": [118.005, 27.700] },
+    { "id": "xingcun-bus", "name": "星村公交站", "type": "bus", "coord": [117.895, 27.665] },
+    { "id": "nanyuanling-bus", "name": "南源岭公交站", "type": "bus", "coord": [118.010, 27.635] },
+    { "id": "shaowu-bus", "name": "邵武汽车站", "type": "bus", "coord": [117.490, 27.350] }
+  ]
+}

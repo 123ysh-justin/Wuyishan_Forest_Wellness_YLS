@@ -1,0 +1,211 @@
+[
+  {
+    "id": "c-wugan",
+    "baseId": "yunlingshan",
+    "title": "森林五感唤醒体验课",
+    "suitableBases": ["yunlingshan", "nanyuanling", "erdu"],
+    "category": "森林康养",
+    "isDemo": true,
+    "goal": "通过视、听、嗅、触、味五感系统化刺激，帮助学员重建与自然的感知连接，缓解感官钝化与心理疲劳。",
+    "audience": "18–65岁亚健康人群、企业疗休养团队",
+    "duration": "120分钟",
+    "preparation": "防滑徒步鞋、饮用水、防蚊用品；课程导师1名、助教1名；急救包",
+    "steps": [
+      { "order": 1, "name": "开营与呼吸校准", "minutes": 15, "poiId": "poi-visitor", "content": "在游客服务点集合，导师引导腹式呼吸练习，说明课程规则与安全事项。" },
+      { "order": 2, "name": "听觉体验·林籁辨识", "minutes": 20, "poiId": "poi-forest-bath", "content": "闭眼静坐森林浴场，辨识风声、鸟鸣、溪流的层次与方向，记录3种最打动自己的声音。" },
+      { "order": 3, "name": "触觉体验·古树对话", "minutes": 25, "poiId": "poi-forest-bath", "content": "触摸不同树种树皮的质地与温度，赤足行走落叶步道，分享触觉感受。" },
+      { "order": 4, "name": "嗅觉体验·林间芳疗", "minutes": 20, "poiId": "poi-aroma", "content": "嗅辨松针、樟叶、苔藓与湿润土壤的气息，学习植物挥发物（芬多精）基础知识。" },
+      { "order": 5, "name": "味觉体验·山泉茶歇", "minutes": 25, "poiId": "poi-rest", "content": "在森林休憩区品鉴本地岩茶与山泉水，讨论水土与风味的关系。" },
+      { "order": 6, "name": "整合分享与课程回顾", "minutes": 15, "poiId": "poi-edu", "content": "学员围坐分享五感体验，导师总结感官重建方法，布置日常练习建议。" }
+    ],
+    "materials": "五感记录卡、植物气味样本盒、便携茶具",
+    "safety": "雨天转为廊道课程；过敏体质学员提前登记；全程不离队",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-meditation",
+    "baseId": "yunlingshan",
+    "title": "森林冥想与正念减压课",
+    "suitableBases": ["yunlingshan", "nanyuanling"],
+    "category": "森林康养",
+    "isDemo": true,
+    "goal": "借助森林环境的声景与绿视率，引导学员掌握正念冥想基础方法，降低焦虑水平、改善睡眠质量。",
+    "audience": "高压职业人群、睡眠障碍困扰者（非医疗替代）",
+    "duration": "90分钟",
+    "preparation": "瑜伽垫或坐垫、薄外套、静音手机；具备正念引导资质的导师",
+    "steps": [
+      { "order": 1, "name": "步行入静", "minutes": 15, "poiId": "poi-trail-start", "content": "沿森林步道缓步行进，配合脚步节律调整呼吸，逐渐收束注意力。" },
+      { "order": 2, "name": "身体扫描", "minutes": 20, "poiId": "poi-meditation", "content": "在冥想平台静坐，导师引导从足至头的身体扫描练习，释放肌肉紧张。" },
+      { "order": 3, "name": "声景正念", "minutes": 25, "poiId": "poi-meditation", "content": "以溪流与风声为锚点进行开放式觉察练习，学习念头来去的观察方法。" },
+      { "order": 4, "name": "慈心练习与分享", "minutes": 20, "poiId": "poi-meditation", "content": "慈心禅引导，随后自愿分享体验，导师给予个性化练习建议。" },
+      { "order": 5, "name": "缓步返程", "minutes": 10, "poiId": "poi-trail-start", "content": "带着觉察缓步返回，结束课程。" }
+    ],
+    "materials": "坐垫、白噪音备用音箱（雨天）、反馈问卷",
+    "safety": "严重心理疾病学员需医嘱；平台边缘设安全线；保持安静动线",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-forest-bath",
+    "baseId": "yunlingshan",
+    "title": "森林浴深度疗愈半日课",
+    "suitableBases": ["yunlingshan", "nanyuanling"],
+    "category": "森林康养",
+    "isDemo": true,
+    "goal": "依据森林医学（Shinrin-yoku）方法，通过低速沉浸式的森林停留，促进副交感神经激活，达到生理放松指标改善。",
+    "audience": "疗休养团队、慢性疲劳人群",
+    "duration": "180分钟",
+    "preparation": "心率记录设备（可选）、饮用水、坐垫",
+    "steps": [
+      { "order": 1, "name": "入林仪式与基线测量", "minutes": 20, "poiId": "poi-visitor", "content": "记录安静心率与主观压力评分，讲解森林浴原理与流程。" },
+      { "order": 2, "name": "慢行道·感官漫步", "minutes": 50, "poiId": "poi-trail-start", "content": "以每小时不足1公里的速度沿步道行进，导师不定期提示感官觉察点。" },
+      { "order": 3, "name": "森林浴场静卧", "minutes": 40, "poiId": "poi-forest-bath", "content": "在千年古树林下的森林浴场静卧或静坐，进行深度放松。" },
+      { "order": 4, "name": "溪边茶歇与自由创作", "minutes": 40, "poiId": "poi-rest", "content": "溪边茶歇，可用树叶、石子进行自然物拼贴创作。" },
+      { "order": 5, "name": "复测与总结", "minutes": 30, "poiId": "poi-edu", "content": "复测心率与压力评分对比，导师讲解居家森林疗愈延伸方法。" }
+    ],
+    "materials": "心率表、自然物创作卡纸、茶歇物料",
+    "safety": "心脑血管病史学员报备；静卧区铺设防潮垫",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-tree-science",
+    "baseId": "yunlingshan",
+    "title": "千年古树自然教育课",
+    "suitableBases": ["yunlingshan", "erdu", "nanyuanling"],
+    "category": "自然教育",
+    "isDemo": true,
+    "goal": "认识亚热带常绿阔叶林代表性树种与古树年龄测定方法，建立森林生态系统整体观。",
+    "audience": "中小学生研学团队、亲子家庭",
+    "duration": "100分钟",
+    "preparation": "放大镜、树种图鉴卡、卷尺；自然教育导师",
+    "steps": [
+      { "order": 1, "name": "开题·什么算古树", "minutes": 15, "poiId": "poi-edu", "content": "在自然教育课堂讲解古树分级标准与保护意义。" },
+      { "order": 2, "name": "实地观察·胸径测量", "minutes": 30, "poiId": "poi-forest-bath", "content": "分组测量古树林代表树木胸径，估算树龄，观察附生植物。" },
+      { "order": 3, "name": "生态系统游戏", "minutes": 30, "poiId": "poi-forest-bath", "content": "通过角色扮演游戏理解乔木层、灌木层、草本层与分解者的关系。" },
+      { "order": 4, "name": "总结与保护倡议", "minutes": 25, "poiId": "poi-edu", "content": "每组汇报发现，共同拟定古树保护小倡议。" }
+    ],
+    "materials": "图鉴卡、测量工具、任务单",
+    "safety": "禁止攀爬古树；注意林间蜂虫",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-night",
+    "baseId": "qiyunfeng",
+    "title": "齐云峰夜观与星野课",
+    "suitableBases": ["qiyunfeng", "yunlingshan"],
+    "category": "自然教育",
+    "isDemo": true,
+    "goal": "利用峰顶暗夜环境观察星空与夜间森林生物，理解光污染对生态的影响。",
+    "audience": "亲子家庭、天文爱好者",
+    "duration": "120分钟（夜间）",
+    "preparation": "红光手电、保暖衣物、星图；夜间安全员",
+    "steps": [
+      { "order": 1, "name": "暗夜适应", "minutes": 20, "poiId": "poi-view", "content": "峰顶观景台暗适应，讲解红光照明规则。" },
+      { "order": 2, "name": "星空辨识", "minutes": 40, "poiId": "poi-view", "content": "辨识当季主要星座与亮星，讲解星村“天灯”夜景的人文渊源。" },
+      { "order": 3, "name": "夜行性生物观察", "minutes": 40, "poiId": "poi-trail-start", "content": "沿步道寻找夜间昆虫与蛙类，学习不惊扰的观察方式。" },
+      { "order": 4, "name": "暗夜保护讨论", "minutes": 20, "poiId": "poi-view", "content": "讨论光污染与暗夜保护，结束课程。" }
+    ],
+    "materials": "红光手电、星图、观察记录表",
+    "safety": "夜间必须双人同行；观景台边缘禁止越线",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-baduanjin",
+    "baseId": "qiyunfeng",
+    "title": "峰顶八段锦康养晨练",
+    "suitableBases": ["qiyunfeng", "nanyuanling", "yunlingshan"],
+    "category": "森林康养",
+    "isDemo": true,
+    "goal": "在高负氧离子峰顶环境中习练健身气功八段锦，改善身体柔韧性与气血感受。",
+    "audience": "中老年康养人群、疗休养团队",
+    "duration": "60分钟（清晨）",
+    "preparation": "宽松服装、平底鞋；八段锦教练",
+    "steps": [
+      { "order": 1, "name": "热身与调息", "minutes": 10, "poiId": "poi-view", "content": "关节活动与呼吸调整。" },
+      { "order": 2, "name": "八段锦全套习练", "minutes": 35, "poiId": "poi-view", "content": "教练领练八段锦八式，逐一纠正动作。" },
+      { "order": 3, "name": "收势与云海观息", "minutes": 15, "poiId": "poi-view", "content": "收势后静观云海，感受呼吸与环境的融合。" }
+    ],
+    "materials": "便携音箱、动作图解卡",
+    "safety": "高血压学员避免憋气动作；大风天气取消",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-plant-energy",
+    "baseId": "erdu",
+    "title": "植物能量与林下药用植物课",
+    "suitableBases": ["erdu", "yunlingshan"],
+    "category": "自然教育",
+    "isDemo": true,
+    "goal": "认识金线莲、铁皮石斛、黄精等林下药用植物的生境需求，理解林下经济的生态价值。",
+    "audience": "成人研学、康养产业考察团",
+    "duration": "120分钟",
+    "preparation": "林下种植基地参观许可、放大镜",
+    "steps": [
+      { "order": 1, "name": "林下经济导论", "minutes": 20, "poiId": "poi-edu", "content": "讲解二都林场景观与林下经济模式。" },
+      { "order": 2, "name": "种植基地实地观察", "minutes": 60, "poiId": "poi-forest-bath", "content": "观察金线莲等作物的仿野生栽培环境，记录生境三要素。" },
+      { "order": 3, "name": "植物能量主题讨论", "minutes": 40, "poiId": "poi-edu", "content": "探讨“植物能量”主题度假的产品逻辑与生态边界。" }
+    ],
+    "materials": "观察记录表、生境测量小工具",
+    "safety": "种植基地内禁止采摘；注意地面湿滑",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-bamboo",
+    "baseId": "erdu",
+    "title": "百竹园竹文化体验课",
+    "suitableBases": ["erdu", "nanyuanling"],
+    "category": "自然教育",
+    "isDemo": true,
+    "goal": "认识闽北竹类资源与竹材利用，体验全竹茶空间的东方生活美学。",
+    "audience": "文化体验型游客、亲子家庭",
+    "duration": "90分钟",
+    "preparation": "竹艺工具（导师准备）、防割手套",
+    "steps": [
+      { "order": 1, "name": "百竹园导览", "minutes": 30, "poiId": "poi-trail-start", "content": "沿青云山森林步道百竹园段辨识10种常见竹种。" },
+      { "order": 2, "name": "竹材科学小实验", "minutes": 25, "poiId": "poi-edu", "content": "观察竹材结构，理解竹子的力学特性与速生特性。" },
+      { "order": 3, "name": "全竹茶空间体验", "minutes": 35, "poiId": "poi-rest", "content": "在全竹茶空间品竹筒茶，讨论竹产业的可持续价值。" }
+    ],
+    "materials": "竹种图鉴、竹材标本",
+    "safety": "竹艺环节由导师统一操作",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-yoga",
+    "baseId": "nanyuanling",
+    "title": "古树林森林瑜伽课",
+    "suitableBases": ["nanyuanling", "yunlingshan"],
+    "category": "森林康养",
+    "isDemo": true,
+    "goal": "在双门庵古树林环境中进行低强度瑜伽练习，结合森林绿视环境提升身心放松效果。",
+    "audience": "民宿住客、瑜伽初学者",
+    "duration": "75分钟（清晨）",
+    "preparation": "瑜伽垫、驱蚊用品；瑜伽教练",
+    "steps": [
+      { "order": 1, "name": "林间调息", "minutes": 10, "poiId": "poi-forest-bath", "content": "古树林下静坐调息，感受林间微气候。" },
+      { "order": 2, "name": "森林流瑜伽", "minutes": 45, "poiId": "poi-forest-bath", "content": "以树式、山式等自然意象体式为主的流瑜伽序列。" },
+      { "order": 3, "name": "放松术与茶歇", "minutes": 20, "poiId": "poi-rest", "content": "摊尸式放松后享用养生茶点。" }
+    ],
+    "materials": "瑜伽垫、音响",
+    "safety": "地面不平处调整体式；腰椎问题学员提前告知教练",
+    "note": "示范课程方案，不代表基地已实际开展"
+  },
+  {
+    "id": "c-homestay",
+    "baseId": "nanyuanling",
+    "title": "民宿村落康养生活体验课",
+    "suitableBases": ["nanyuanling", "erdu"],
+    "category": "森林康养",
+    "isDemo": true,
+    "goal": "体验“武夷山民宿第一村”的康养生活方式，理解乡村康养社区的运营模式。",
+    "audience": "康养旅居人群、乡村振兴考察团",
+    "duration": "半天",
+    "preparation": "舒适的步行鞋",
+    "steps": [
+      { "order": 1, "name": "村落导览", "minutes": 40, "poiId": "poi-visitor", "content": "走访南源岭民宿集群，了解村民共建共享模式。" },
+      { "order": 2, "name": "茶餐制作体验", "minutes": 60, "poiId": "poi-rest", "content": "参与岩茶茶餐制作，学习药食同源理念。" },
+      { "order": 3, "name": "足浴与休整", "minutes": 40, "poiId": "poi-rest", "content": "草药足浴体验，交流康养旅居感受。" }
+    ],
+    "materials": "茶餐食材、足浴草药包",
+    "safety": "食品过敏提前登记",
+    "note": "示范课程方案，不代表基地已实际开展"
+  }
+]
